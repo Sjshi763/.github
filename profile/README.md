@@ -12,7 +12,9 @@
     - API被封了，没办法，只能被迫结束了
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot)
     - 这是个好项目，但是我没空关注了，而且pr审核确实慢，所以我去别的项目尝试发光发热了
- - [remename](https://github.com/Sjshi763/remename)
+- [remename](https://github.com/Sjshi763/remename)
     - 这个项目完成了它跨平台的SMB批量重命名的需求
+- [CuteStatRevolver](https://github.com/WF-scientific-and-technical-society/CuteStatRevolver)
+    - 写来玩的项目，可以成功的生成奇奇怪怪的统计图
 
 ***它们都是我十分甚至九分用心的项目***
